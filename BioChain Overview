@@ -1,4 +1,4 @@
-BioChain (Tech Infrastructure) – Security, Consent, and Transparency
+BioChain – Security, Consent, and Transparency
 
 Function: BioChain is the blockchain engine behind BioChi — built to handle sensitive biometric data with speed, integrity, and quantum-resilient security.
 
@@ -12,7 +12,7 @@ Strategic Role:
 * Provides the technological foundation for privacy-preserving health data management.
 * Enables BioChi to be audit-ready, research-capable, and regulatory compliant across global jurisdictions.
 
-BioWallet (Web3 App) – Personal Health Command Center
+BioWallet – Personal Health Command Center
 
 Function: The BioWallet is the user’s digital health passport — a control panel that manages data permissions, tokens, identity, and access to the BioChi ecosystem.
 
@@ -21,6 +21,7 @@ Key Features:
 * Token Utility Layer: Manage BIO and CHI tokens for governance, purchasing, or accessing premium services.
 * SSI (Self-Sovereign Identity): Own your digital identity, anchored in your biometrics — no central authority required.
 * Wellness Score & Rewards: WELL tokens track holistic engagement and unlock incentives or deeper platform access.
+
 Strategic Role:
 * Empowers users to own and manage their biometrics data, not just observe it.
 * Facilitates platform interaction — from governance to purchases to research contribution — while upholding privacy and sovereignty-by-design.
